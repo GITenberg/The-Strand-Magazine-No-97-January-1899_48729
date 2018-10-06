@@ -29,5 +29,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: The Strand Magazine No. 97 (January, 1899)
 url: http://www.gutenberg.org/ebooks/48729
